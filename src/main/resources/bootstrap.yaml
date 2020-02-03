@@ -24,13 +24,13 @@ api.version: 1.0
 swagger.enabled: true
 swagger.title: jpa-spec-with-quartz-and-api API
 swagger.description: Swagger implementation.
-swagger.useDefaultResponseMessages: false
-swagger.enableUrlTemplating: false
+swagger.useDefaultResponseMessages: true
+swagger.enableUrlTemplating: true
 swagger.deepLinking: true
 swagger.defaultModelsExpandDepth: 1
 swagger.defaultModelExpandDepth: 1
-swagger.displayOperationId: false
-swagger.displayRequestDuration: false
+swagger.displayOperationId: true
+swagger.displayRequestDuration: true
 swagger.filter: false
 swagger.maxDisplayedTags: 0
 swagger.showExtensions: false;
